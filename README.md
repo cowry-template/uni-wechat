@@ -1,2 +1,3 @@
 # uni-wechat
-基于uni-app的小程序模版
+
+基于 uniapp 开发的小程序

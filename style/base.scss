@@ -1,0 +1,17 @@
+page {
+  font-family:  -apple-system, PingFang SC,
+    Roboto, Source Han Sans, Segoe UI,
+    Hiragino Sans GB, Microsoft YaHei, Helvetica Neue, Helvetica, Arial,
+    sans-serif, BlinkMacSystemFont !important;
+}
+* {
+  box-sizing: border-box;
+}
+
+input {
+  background: transparent;
+  outline: none;
+}
+image {
+  will-change: transform;
+}
